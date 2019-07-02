@@ -15,24 +15,31 @@
 
 ## Planteamiento problema.
 
-•La biblioteca no cuenta con un sistema establecido en el cual se regule y mantenga el control de los libros, no se tiene claro cual es el proceso a llevar a cabo para su organización, generando inconvenientes en terceros que son aquellos que hacen uso de el establecimiento por ende se requiere de un sistema el cual genere un proceso de organización adecuado y de fácil entendimiento.
+•La biblioteca presenta notorias falencias debido a que
+no cuenta con sistema el cual regule y controle su
+estructura, generando inconvenientes en el desarrollo
+de procesos tan esenciales como el registro del muy
+constante flujo de libros; por ende se requiere de un
+sistema el cual permita una adecuada organización
+sin pasar por alto una interfaz clara y sencilla
+
 ## Alcance.
-.
-
-•Implementar un sistema que genere eficacia al momento de registrar los libros obtenidos y por obtener.
-
-## Planteamiento problema.
-
-•La biblioteca no cuenta con un sistema establecido en el cual se regule y mantenga el control de los libros, no se tiene claro cual es el proceso a llevar a cabo para su organización, generando inconvenientes en terceros que son aquellos que hacen uso de el establecimiento por ende se requiere de un sistema el cual genere un proceso de organización adecuado y de fácil entendimiento.
-## Alcance.
-
-•Diseñar un sistema software capaz de generar un ordenamiento automático y eficaz al momento de el registro de los libros, facilitando el trabajo de el personal encargado de la biblioteca y de los usuarios. El cual tendrá como función la descripción del libro cuales libros están disponibles.
+•Desarrollar un software capaz de realizar un
+ordenamiento sistematizado y eficaz al momento
+de registrar los libros, facilitando el trabajo e
+igualmente superando los inconvenientes
+contenidos en los procesos y por ultimo añadir
+reportes de acuerdo a petición del cliente.
 
 ## Justificación.
 
-•El proyecto representa una sustancial importancia ya que desarrolla de forma apta y rápida las funciones que incluyan el manejo del material bibliográfico asimismo resuelve problemáticas como la categorización registro y control de los componentes de la biblioteca de esta manera aportando un avance exponencial en el desempeño con que se llevan a cabo las actividades dentro del sistema. Aportamos la tecnología de un software que ayude al ordenamiento y dirección dentro de la biblioteca.
-•Diseñar un sistema software capaz de generar un ordenamiento automático y eficaz al momento de el registro de los libros, facilitando el trabajo de el personal encargado de la biblioteca y de los usuarios. El cual tendrá como función la descripción del libro cuales libros están disponibles.
-
-## Justificación.
-
-•El proyecto representa una sustancial importancia ya que desarrolla de forma apta y rápida las funciones que incluyan el manejo del material bibliográfico asimismo resuelve problemáticas como la categorización registro y control de los componentes de la biblioteca de esta manera aportando un avance exponencial en el desempeño con que se llevan a cabo las actividades dentro del sistema. Aportamos la tecnología de un software que ayude al ordenamiento y dirección dentro de la biblioteca.
+•El proyecto representa una sustancial importancia ya
+que desarrolla de forma apta y rápida las funciones que
+incluyan el manejo del material bibliográfico así mismo
+resuelve problemáticas como la categorización registro
+y control de los componentes de la biblioteca de esta
+manera aportando un avance exponencial en el
+desempeño con que se llevan a cabo las actividades
+dentro del sistema. Aportamos la tecnología de un
+software que ayude al ordenamiento y dirección
+dentro de la biblioteca.
