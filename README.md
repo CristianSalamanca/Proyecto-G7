@@ -1,5 +1,5 @@
- # Sorting Software
-![enter image description here](https://lh3.googleusercontent.com/-jPMQayHNH4l__k7sDbk_La4YMp_uEkuieSFVyvTDY9ODPIO3ydGFYIErBrwWIidOc_fr2fIdtuU "Ss")
+# Sorting Software.
+![enter image description here](https://lh3.googleusercontent.com/Cv0EFgNei6jKqIs6mjklyTBqh4SWe1BA4TWjUPk51owHnE9SkiGnLHONfxde3V2iyVPAIVkhZYI "SS")
 
 
 # Objetivo General.
